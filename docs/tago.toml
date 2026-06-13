@@ -1,0 +1,10 @@
+title       = "cran"
+baseURL     = "https://cran-cli.tamnd.com/"
+description = "Browse CRAN R package repository"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/cran-cli"
